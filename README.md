@@ -1,8 +1,6 @@
 # Olá, eu sou Igor Damasceno 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de aprender e aprimorar minhas habilidades.
-
-## Sobre mim
+ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de aprender e aprimorar minhas habilidades.
 
 - 🌱 Atualmente, estou aprendendo sobre APIs e aprimorando minhas habilidades em Angular e desenvolvimento web.
 - 💻 Estou trabalhando em um projeto de gerenciador de tarefas com Angular, utilizando Angular Material e json-server.
@@ -27,9 +25,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a colaborações e novas ideias!
 
-- [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Meu Twitter](https://twitter.com/seu-twitter)
+- [Meu LinkedIn](https://www.linkedin.com/in/igor-damasceno-44a492313/)
 
-Obrigado pela visita! 🚀
+
 
 
