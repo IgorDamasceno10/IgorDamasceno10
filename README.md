@@ -11,6 +11,16 @@
 - [Gerenciador de Tarefas](https://github.com/IgorDamasceno10/pagina-de-renda-renda-extra): Um projeto que estou desenvolvendo para gerenciar tarefas, focando na usabilidade e design responsivo.
 - [Site Interativo de Renda Extra](https://github.com/IgorDamasceno10/pagina-de-renda-renda-extra): Um site que inclui ícones, páginas de login e cadastro, destinado a compartilhar oportunidades de renda extra.
 
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
+
+
 ## Tecnologias que estou utilizando
 
 - **Linguagens:** JavaScript, TypeScript, HTML, CSS
