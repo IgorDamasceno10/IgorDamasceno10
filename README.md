@@ -19,7 +19,11 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IgorDamasceno10&show_icons=true&theme=radical)
+
+![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorDamasceno10&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDamasceno10&layout=compact&theme=dracula)
+
 
 ## Vamos nos conectar!
 
