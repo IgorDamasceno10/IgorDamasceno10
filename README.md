@@ -6,15 +6,9 @@
 - 💻 Estou trabalhando em um projeto de gerenciador de tarefas com Angular, utilizando Angular Material e json-server.
 - 🎯 Meu objetivo é criar aplicações interativas e responsivas que proporcionem uma experiência de usuário incrível.
 
-## Projetos em Destaque
-
-- [Gerenciador de Tarefas](https://github.com/IgorDamasceno10/pagina-de-renda-renda-extra): Um projeto que estou desenvolvendo para gerenciar tarefas, focando na usabilidade e design responsivo.
-- [Site Interativo de Renda Extra](https://github.com/IgorDamasceno10/pagina-de-renda-renda-extra): Um site que inclui ícones, páginas de login e cadastro, destinado a compartilhar oportunidades de renda extra.
 
 
 
-
-## Tecnologias que estou utilizando
 <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,9 +17,7 @@
 </div>
 
 
-- **Linguagens:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** Angular, Angular Material
-- **Outras Ferramentas:** json-server, Git, GitHub
+
 
 ## Estatísticas do GitHub
 
