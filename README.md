@@ -121,41 +121,6 @@ $ status projeto-gerenciador-tarefas
 
 <br>
 
-## `~/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IgorDamasceno10&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDamasceno10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="40%" />
-
-</div>
-
-<br>
-
-## `~/activity`
-
-<div align="center">
-
-<!-- github-snake-start -->
-<img src="https://raw.githubusercontent.com/IgorDamasceno10/IgorDamasceno10/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-<!-- github-snake-end -->
-
-</div>
-
-<br>
-
-## `~/connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/igor-damasceno-44a492313/">
-<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/IgorDamasceno10">
-<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 <sub>:wq</sub>
 
